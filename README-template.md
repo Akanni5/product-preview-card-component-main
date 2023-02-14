@@ -38,7 +38,7 @@ Mobile Design
 ### Links
 
 - Solution URL: [Akanni5 @github](https://github.com/Akanni5/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel app](https://product-preview-card-component-main-ten-zeta.vercel.app/)
 
 ## My process
 
